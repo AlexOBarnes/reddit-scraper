@@ -19,7 +19,13 @@ CREATE TABLE post (
 INSERT INTO
     subreddit (subreddit_name)
 VALUES 
-    ('conpiracytheories'),
-    ('aww'),
-    ('UK_food')
+('conpiracytheories'),
+('aww'),
+('UK_food'),
+('soccer'),
+('politics'),
+('AITAH'),
+('askreddit'),
+('offmychest'),
+('batmanarkham')
 ;

@@ -1,0 +1,6 @@
+ipykernel
+psycopg2
+pandas
+python-dotenv
+nltk
+seaborn
